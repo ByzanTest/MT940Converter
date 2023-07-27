@@ -1,0 +1,10 @@
+[General]
+Date=27/07/2023
+Audit Log=D:\Office\MT940Converter\Audit
+Error Log=D:\Office\MT940Converter\Error
+Input Folder=D:\Office\MT940Converter\Input
+Output Folder=D:\Office\MT940Converter\Output
+Archived FolderSuc=D:\Office\MT940Converter\Archive\Success
+Archived FolderUnSuc=D:\Office\MT940Converter\Archive\Unsuccess
+Converter Caption=MT-940 To Excel File Converter
+=====
